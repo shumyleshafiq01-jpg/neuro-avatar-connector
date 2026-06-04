@@ -1,0 +1,27 @@
+# Netlify build configuration for the Neuro Avatar Connector.
+# The Netlify Next.js plugin (@netlify/plugin-nextjs) auto-detects most
+# settings, but pinning them here makes deploys deterministic and the
+# dashboard match what's in the repo.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Pin Node to a Next-16-compatible LTS release.
+  NODE_VERSION = "20.18.0"
+  NPM_VERSION = "10.9.0"
+  # Skip Next.js telemetry on every CI build.
+  NEXT_TELEMETRY_DISABLED = "1"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Headers — allow webcam/microphone permissions on the deployed origin,
+# which the browser requires for MediaPipe + Web Speech APIs.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "camera=(self), microphone=(self), display-capture=(self)"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

@@ -1,0 +1,515 @@
+
+
+NEUROGRID LABS — COMPLETE CONTEXT DOCUMENT
+
+For AI Assistant Context Transfer | Last Updated: April 26, 2026
+
+INSTRUCTIONS TO AI: This document contains the complete context of Sheikh Shumyle (Muhammad Shumyle Shafiq), INFJ founder of NeuroGrid Labs. Use this to continue coaching, business strategy, and task management exactly where the previous conversation ended. Maintain the same tone — direct, honest, supportive, no sugar-coating. Use the black heart emoji and target emoji at the end of key responses. Address him as Shumyle. He is building an empire from scratch and needs a strategic partner, not a yes-man.
+
+
+1. IDENTITY & CORE CONTEXT
+
+Full Name: Muhammad Shumyle Shafiq (Sheikh Shumyle)
+
+Personality: INFJ — uses listening as superpower, reads rooms, plays long game, values authenticity over performance
+
+Location: Lives in Gulistan-e-Johar Block 16, Karachi. Works at Falconhouse Grammar School in Maymar (~40 min drive)
+
+Contact: shumyle@neurogridlabs.tech | +92 314 2867152 | neurogridlabs.tech
+
+Education: BS Computer Science Karachi University 2020, BBA incomplete Iqra (3.8 CGPA, 2x scholarship), British Council APTIS English fluent (177 score, 50/50 listening), EC-Council Cybersecurity certified
+
+Wife: Natasha — pregnant, gestational diabetes (monitoring 4x daily glucometer, diet control, no meds). Academic Manager at Falconhouse.
+
+Brother: Muhammad Minhal — CA at EY Bahrain, registering NeuroGrid Labs SMC-Private Limited via SECP
+
+Father: Spoke 9+ languages. Shumyle took care of him during illness.
+
+Previous Role: IT Administrator at Academus International School (Nov 2020-Apr 2026). Resigned after 6 years under narcissistic principal Sarah. Grey Rock strategy used to exit with dignity.
+
+
+2. DIGITAL PRESENCE
+
+
+@cool_guy_here_ Instagram — 20.3K followers organic, 275 posts
+
+
+@thesensepk Instagram — 9.5K followers (perfume brand, 38 posts)
+
+
+LinkedIn personal + NeuroGrid Labs company page
+
+
+LinkedIn 'Providing services' enabled — SaaS Dev, Educational Consulting, IT Consulting, Management Consulting
+
+
+Credly: 17 badges (Google, IBM, SAP, EC-Council Cybersecurity)
+
+
+YouTube: NeuroGrid Labs channel created, video intro uploaded PUBLIC
+
+
+YouTube: Sprunki Kid (6K subs, 1.1M views — kids animation)
+
+
+Upwork profile LIVE — verified identity badge, 8 portfolio projects, 7 certifications, $25/hr, 9 proposals sent
+
+
+Email: shumyle@neurogridlabs.tech — Brevo SMTP via Gmail (send + receive working)
+
+
+3. FALCONHOUSE GRAMMAR SCHOOL — VP TECHNOLOGY
+
+Title: VP Technology | Natasha: Academic Manager | Zeeshan: Director | Wife: Principal (nominal)
+
+School: Maymar, Karachi. Part of Falconhouse network — 12+ campuses, 6000+ students, established 1984, CEO: M. Ahmar Rehman
+
+Students: ~90 students + 7 new students (single family from HPGS — mother is HPGS principal)
+
+Terms: PKR 25K/month + 20% profit share, 4 flexible days/week, alternate Saturdays, 8:30am-2:30pm
+
+WiFi: Huawei EchoLife HG8346R6 — admin: telecomadmin/admintelecom, IP: 192.168.100.1 — password recovered
+
+Key Events Completed: Earth Day (7 activities, DSLR photos taken), Eid Milan Party, Staff team building with strengths/weaknesses exercise
+
+Facebook: Old page orphaned (facebook.com/falconhousemaymar — no admin). New page to be created.
+
+Key Issue: falconhouse.live (Student Management System) is DEAD — DNS not resolving. SchoolOS at schoolportal.live is the replacement. Main website falconhouse.edu.pk is HTTP-only, outdated, wrong Maymar address.
+
+Announcements Made: Google/IBM/Microsoft free certifications for staff, clubs (Philosophy & Astronomy, Art, Islamic Discourse), digital transformation starting with online attendance, World Space Week SUPARCO participation Oct 2026
+
+
+4. COMPLETE PRODUCT ARSENAL — 33 PRODUCTS
+
+
+EdTech
+
+
+Report Card SaaS
+
+
+School Management System
+
+
+Digital Worksheet SaaS
+
+
+AI Attendance
+
+
+SchoolOS/SchoolPortal — schoolportal.live LIVE
+
+
+NeuroGrid Timetable
+
+
+NeuroGrid Learn (Google Classroom alternative — 90% complete) — includes Talent Lifecycle Ecosystem: Recruit > Train > Assess > Hire > Manage > Certify
+
+
+Security
+
+
+AI Vision
+
+
+NeuroGrid Security — cybersecurity command center
+
+
+Pentest Target NexaSchool
+
+
+Healthcare
+
+
+NeuroGrid Clinic — karachitraumainstitute.netlify.app LIVE
+
+
+Mobility/Civic
+
+
+Safety Ride App
+
+
+CivicPulse — civicpulsepk.netlify.app LIVE
+
+
+AI/Automation
+
+
+Voice Agent Platform 50%
+
+
+Voice Agent Deployment Wrapper 95%
+
+
+Cloud Robot AI Tour Guide
+
+
+SEO Agent + Marketing WebApp
+
+
+NeuroGrid Messaging WhatsApp API
+
+
+Platform
+
+
+Browser-Based Virtual OS
+
+
+NeuroGrid OS Linux fork
+
+
+Retail & Other
+
+
+NeuroGrid POS
+
+
+Virtual Tour WebApp
+
+
+NeuroGrid Network Manager — IT infrastructure management
+
+
+NeuroGrid Certify — certificate generation and management
+
+
+NeuroGrid Academy — paid teaching platform
+
+
+NeuroGrid Sites — school website builder
+
+
+Market Research Agent
+
+
+NeuroGrid HR — staff management, payroll, leave tracking
+
+
+AI Agents
+
+
+NeuroGrid Jarvis — voice-controlled computer
+
+
+NeuroGrid Drive — journey companion with live guidance
+
+
+NeuroGrid Scout — Amazon research tool (Jungle Scout alternative)
+
+
+NeuroGrid AutoDesign — Canva automation
+
+
+NeuroGrid Social Pilot — social media automation
+
+
+
+5. KEY CONNECTIONS & OUTREACH STATUS
+
+
+HOT — Active Conversations
+
+
+Fazal Niazi (FranklinCovey) — Connected. He messaged first after IBA Summit. Meeting to be scheduled.
+
+
+Abbas Husain (Director TDC, SPELT founder) — Met at IBA. Philosophical connection. Agreed to podcast. Module 1 registration attempted.
+
+
+Sanam Pathan (Head Beaconhouse International College) — Recognized Shumyle from previous interview. Said 'come anytime.' Promised to connect with someone for AI.
+
+
+Sidra Qamar (CEO IU School System, Founder Awazebezuban) — Met at IBA. Interested in AI assistant + HR ecosystem. Email sent. LinkedIn connection pending.
+
+
+Anum Akhter (ex-Credo College) — Meeting confirmed Wednesday 10am-3pm. Survey questions ready.
+
+
+Bushra Taqi (Principal, Researcher) — Replied thoughtfully on LinkedIn. Interested in SchoolOS. Meeting to be scheduled.
+
+
+Talha Sami (CEO Edolutions) — Gave phone number 03312781609. Rural digital classrooms. Potential NeuroGrid Learn collaboration.
+
+
+Faisal Azeem (MD Global University Systems) — Replied 'Thanks'. Ball in his court.
+
+
+WARM — Connections Pending
+
+
+Dr. Zahid Faqir (Fauji Foundation, 55K followers) — Connection sent
+
+
+Dr. Kion Ahadi (CEO LEASE, London, 52K followers) — Connection request not sent yet
+
+
+Hania Bajwa (HR Manager, 700+ engagement) — DM about Talent Lifecycle Ecosystem drafted
+
+
+Rameen Gul (HR, 89K followers) — Connection sent
+
+
+Lubna Pariyani (PAC Moderator) — Connection sent. Message drafted for when she accepts. Path to SPELT speaker/panelist.
+
+
+Shahab Yakoob (BOD Credo College) — Holding for Anum warm intro
+
+
+Ehsam Ullah Baig (PISE, education in remote areas) — He connected first. Warm greeting sent, no pitch.
+
+
+Niaz Ahmad (Pingu's/Eureka School, PAF background, Rumi/Iqbal philosophy) — He sent connection. Accept and greet.
+
+
+Marco Pisano (Principal Scarsdale International, Lahore) — Connection sent + comment on post.
+
+
+Maira Khan (UX/UI Designer, KU, AWS Cloud Club) — Message not sent yet. Potential designer hire.
+
+
+Rana Mashhood Ahmad Khan (Chairman PM Youth Programme) — Connection sent. Do NOT chase. Government-level access comes through warm intros.
+
+
+EMAILS SENT
+
+
+BIC Beaconhouse — hr@bic.edu.pk + info@bic.edu.pk SENT
+
+
+LGS Principal — principal.karachi@lgsdefence.edu.pk SENT
+
+
+Hufsa Awan Newlands — hufsa.awan@newlands.net SENT
+
+
+Sana Sameer Alpha Core — saaidsam@gmail.com SENT
+
+
+Sidra Qamar IU School — SENT
+
+
+HHS Module 1 Abbas Husain — info@hhseducatorshub.com.pk SENT
+
+
+6. NEUROGRID ACADEMY — TEACHING BUSINESS
+
+
+Google IT Professional — PKR 15K/month (6 months, 4hrs/week)
+
+
+AI For Business & Work (UPenn) — PKR 12K/month (3 months)
+
+
+AI Foundations (IBM) — PKR 12K/month (3 months)
+
+
+Cloud Computing for Teachers (Google) — PKR 12K/month (3 months)
+
+
+Microsoft Windows 11 Mastery — PKR 10K/month (3 months)
+
+
+Microsoft Office Advanced — PKR 10K/month (3 months)
+
+
+Home tuition: +PKR 5K additional. Group/package discounts available.
+
+
+100 unnamed Google/IBM/Microsoft certificates ready to grant
+
+
+1 confirmed student PKR 11K/month, 2 more interested teachers
+
+
+Course PDF flyer created — NeuroGrid_Academy_Courses.pdf
+
+
+
+7. PENDING TASKS — As of April 26, 2026
+
+
+URGENT
+
+
+GitHub token regeneration — SchoolPortal deploy token expiring
+
+
+Reply to Fazal Niazi on LinkedIn — schedule meeting
+
+
+Dr. Manzar KTI Dental — schedule demo OVERDUE
+
+
+Google AI Seekho — deploy app on Cloud Run, LinkedIn demo video, submit by May 3
+
+
+Uzbekistan IT Park AI for Education Challenge — 89 days deadline — apply at https://app.ignyte.ae/public/challenges/EB22F859-AF31-F111-9A49-6045BD14D400
+
+
+THIS WEEK
+
+
+Anum Akhter meeting — Wednesday 10am-3pm (video call recommended — Natasha present)
+
+
+Earth Day video edit and post — first Falconhouse social media content
+
+
+Course PDF flyer — share WhatsApp status + Instagram stories
+
+
+NeuroGrid LinkedIn post — teachers drowning in admin (draft ready)
+
+
+Falconhouse Facebook page creation
+
+
+Kingston Islamic School email — Kingston.Bahria@gmail.com (draft ready)
+
+
+PAC partnership email — contactus.pac@gmail.com (draft ready)
+
+
+SECP registration — follow up with Minhal
+
+
+Buy domain for Falconhouse Maymar — discuss with Zeeshan
+
+
+Academus inventory recheck with sir Shahzad's pictures
+
+
+Khanmigo research — Khan Academy AI tutor discussed at IBA
+
+
+Connect with remaining IBA speakers: Dr. Fatima Rehan Dar, Shahpur Jamal, Dr. Rizwan Ahmed Khan, Nasir R. Zaidi, Fahad N. Siddiqui, Uzma Yusuf (Cambridge CAIE)
+
+
+TDC (tdc.edu.pk) — find ways to collaborate with Abbas Husain
+
+
+SPELT — find coordinator through Lubna, path to becoming speaker/panelist
+
+
+Minutes of meeting — Friday activity and team building documentation
+
+
+Canva profile edit for NeuroGrid Academy courses
+
+
+Fiverr profile creation
+
+
+Google Maps — update Falconhouse Maymar location
+
+
+WhatsApp Talha Sami (Edolutions) — 03312781609
+
+
+Hania Bajwa — send DM about Talent Lifecycle Ecosystem
+
+
+Maira Khan — send message about UX/UI collaboration
+
+
+DRAFTED MESSAGES — WAITING FOR ACCEPTANCE
+
+
+Lubna (PAC moderator) — SPELT connection + certification teaching offer
+
+
+Sanam Pathan — get WhatsApp from HR contact, send drafted collaboration message
+
+
+Rameen Gul — Talent Lifecycle pitch when accepts
+
+
+LONGER TERM
+
+
+UNICEF PRC 2026 — CivicPulse application — Deadline May 15
+
+
+World Space Week SUPARCO — October 2026 — Shumyle leading AI project
+
+
+HVERSE — potential client for Cloud Robot AI Tour Guide
+
+
+Startup Pakistan — explore free feature or trade deal (save for later)
+
+
+Safety Ride — Play Store ($25) + App Store ($99)
+
+
+Business cards reprint — UV + correct emerald green
+
+
+TestDisk M.2 data recovery
+
+
+Chromebooks 6 units PKR 30K procurement
+
+
+8. KEY CONCEPTS & FRAMEWORKS
+
+
+Talent Lifecycle Ecosystem — Recruit > Train > Assess > Hire > Manage > Certify — one platform. NeuroGrid Learn's differentiator.
+
+
+Discovery Audit — 1 day embedded as employee in underperforming department, find bottlenecks, write report, offer AI solution. Highest-value consulting service.
+
+
+Grey Rock — used for narcissistic situations (Academus exit)
+
+
+INFJ listening as sales superpower — let people come to you
+
+
+'Let them come' strategy — general store, perfume wholesale, school prospects
+
+
+Warm greeting then let them check profile strategy — for LinkedIn outreach
+
+
+MBTI triple-question validation — 30 questions rephrased 3 ways = 90 questions for accurate personality assessment
+
+
+9. OTHER BUSINESS
+
+
+The Sense (@thesensepk) — perfume brand. 2 wholesale leads (Saudi via father, US via brother). 45 testers distributed.
+
+
+M. Rauf Baig — automobile showroom owner, former mentor. Wants PakWheels-like webapp. Previously quoted 8M by director. Shumyle can build it now.
+
+
+Mehwish Tanveer (Kingston Islamic/Bahria Town) — looking for coding teacher. Shumyle offered part-time for class 6 onwards.
+
+
+Former Academus colleague (LGS contact) — frequent perfume buyer, brother potential US retailer, invited Shumyle + Natasha to her home
+
+
+10. PERSONAL NOTES
+
+
+No internet until age 16-17. First internet in college. Used to create treasure hunts with battery and paper chits in grade 5.
+
+
+Cosplayed Leon Kennedy/Ada Wong (Resident Evil) with Natasha
+
+
+WrestleMania watched with brother Minhal
+
+
+Natasha: gestational diabetes. 4x daily monitoring. Home food only. 30 min walk 2x daily. No meds. Log for doctor in 10 days.
+
+
+Shumyle should NOT be encouraged toward politics. His products are his politics.
+
+
+Coaching style: Direct. Honest. No sugar-coating. Challenge him when he overextends. Celebrate wins genuinely. Use black heart and target emoji.
+
+
