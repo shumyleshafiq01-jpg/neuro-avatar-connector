@@ -4,6 +4,7 @@
 # dashboard match what's in the repo.
 
 [build]
+  base = "web"
   command = "npm run build"
   publish = ".next"
 
